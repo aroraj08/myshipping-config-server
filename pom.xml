@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.myshipping</groupId>
-    <artifactId>myshipping-config-server</artifactId>
+    <artifactId>rapidkart-config-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>myshipping-config-server</name>
+    <name>rapidkart-config-server</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
