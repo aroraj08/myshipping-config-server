@@ -92,6 +92,7 @@
                                     <tag>${project.version}</tag>
                                 </tags>
                             </build>
+                            <layout>LAYERED_JAR</layout>
                         </image>
                     </images>
                 </configuration>
